@@ -1,0 +1,23 @@
+
+public class SumTwoNumbers {
+
+	public static void main(String[] args) {
+		
+		//Declaration and Assignment of Value
+		
+		int val1 = 20;
+		int sum=0;
+		
+		        //Second Variable is explicit casted
+		int val2 = (int) 300.45;
+		
+		// Addition of Two Numbers		
+		sum = val1 + val2;
+		
+		//Output
+		System.out.println("Addition of Two Numbers: "+sum);
+		
+           
+	}
+
+}
